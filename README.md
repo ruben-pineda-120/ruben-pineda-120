@@ -3,6 +3,9 @@
 </div>
 <div align="center">
   <h1>Rubén Pineda</h1>
-  <p>ENTI University</p>
+  <h3>ENTI University</h3>
   <a href="https://github.com/ruben120imokenp" target="_blank">Visit my main account!</a>
+  <br></br>
+  <h1>Programming Languages</h1>
+  <h3>C# - C++ - Java - Python - PLSQL</h3>
 </div>
